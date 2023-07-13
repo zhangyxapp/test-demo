@@ -1,0 +1,1 @@
+{"version":3,"file":"assets/css/fb3e3fc5b44808c2721f.css","mappings":"AAEA,SAEE,UADA,YAAa,CAEb,eADF","sources":["webpack://my-demo/./src/index.less"],"sourcesContent":["@color: red;\n\n.wrapper {\n  display: flex;\n  color: @color;\n  font-family: 'DIN';\n}"],"names":[],"sourceRoot":""}
