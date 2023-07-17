@@ -1,0 +1,7 @@
+node_modules
+publish
+*.md
+.eslintrc.js
+webpack.base.js
+webpack.dev.js
+webpack.prod.js
